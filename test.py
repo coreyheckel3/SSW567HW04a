@@ -1,5 +1,5 @@
 import unittest
-from main import gitApi
+from testGitApi import gitApi
 
 
 class TestGetApi(unittest.TestCase):
